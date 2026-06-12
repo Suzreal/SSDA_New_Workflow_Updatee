@@ -4,7 +4,7 @@
 
 # User Guide
 
-'''
+'
 ├── transcription_json_to_training_llm_repair.py -> the main script to run the workflow
 ├── normalize.py -> the normalization script, change the model setting when needed
 ├── extract.py -> the extraction script, change the model setting when needed
@@ -14,4 +14,4 @@
 ├── utility.py -> utility functions to support other pipeline components.
 ├── Text data/
 │   ├── SSDA_xxxx_xxxx_Gemini_V2.json -> The raw output from Archivault
-'''
+'
