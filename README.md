@@ -21,3 +21,14 @@ graph TD
     C --> D[Normalize Text]
     D --> E[Extract identities]
     E --> F[Output Json]
+
+
+```mermaid
+graph TD
+    A[Raw Image] --> B[Archvault output]
+    B --> C[LLM fixing records]
+    C --> D[Normalize Text]
+    D --> E[Extract identities]
+    E --> F[Output Json]
+
+```
